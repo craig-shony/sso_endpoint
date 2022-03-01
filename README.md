@@ -22,7 +22,7 @@ choose). If the conditions are NOT met, return a 401 and take any appropriate ac
 1. Signed JWTs
 2. Rate limiting
 3. Expiry
-4. **Not Inlcuded:** Vault protection for signing keys
+4. **Not Included:** Vault protection for signing keys
 
 ## Testing Document
 Matches parameters for tokenGen() function for test cases
