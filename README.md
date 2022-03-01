@@ -25,9 +25,9 @@ choose). If the conditions are NOT met, return a 401 and take any appropriate ac
 4. **Not Inlcuded:** Vault protection for signing keys
 
 ## Testing Document
-Matches parameters for tokenGen() function
-Test case 1: valid sso request
-Test case 2: user-pass request
-Test case 3: non-parsleyhealth request
-Test case 4: email fuzzing
-Test case 5: expired JWT
+Matches parameters for tokenGen() function for test cases
+1. valid sso request
+2. user-pass request
+3. non-parsleyhealth request
+4. email fuzzing
+5. expired JWT
